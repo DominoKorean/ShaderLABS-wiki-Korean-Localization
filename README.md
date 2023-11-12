@@ -6,7 +6,7 @@ shaderLABS 위키에 오신 것을 환영합니다. 여기에서는 shaderLABS �
 
 **빠른 링크**
 * 적극적으로 업데이트되는 셰이더팩
-* 설치 지침
+* [설치 지침](Installation%20instructions.md)
 * 자주 묻는 질문
 
 <br/>
